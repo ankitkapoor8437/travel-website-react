@@ -1,8 +1,8 @@
 import './App.css';
 import {
-  Routes,
   Route,
-} from 'react-router-dom';
+  Routes
+} from "react-router-dom";
 import Home from './routes/Home';
 import Contact from './routes/Contact';
 import Service from './routes/Service';
